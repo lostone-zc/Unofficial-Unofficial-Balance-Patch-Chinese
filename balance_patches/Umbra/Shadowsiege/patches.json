@@ -28,7 +28,8 @@
       "id": "UUBP_Shadowsiege",
       "trigger": "on_unplayed_negative",
       "descriptions": {
-        "english": "Apply [emberdrain] [effect0.upgrade.status0.power] and -[effect0.upgrade.costreductionabs][ember]."
+        "english": "Apply [emberdrain] [effect0.upgrade.status0.power] and -[effect0.upgrade.costreductionabs][ember].",
+        "chinese": "获得[emberdrain] [effect0.upgrade.status0.power]，-[effect0.upgrade.costreductionabs][ember]。"
       },
       "effects": [
         {

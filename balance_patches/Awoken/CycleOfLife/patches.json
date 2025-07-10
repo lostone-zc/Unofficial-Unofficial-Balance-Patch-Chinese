@@ -13,7 +13,8 @@
         }
       ],
       "descriptions": {
-        "english": "Apply [effect0.power] max health.[halfbreak]Draw +[effect1.power] next turn."
+        "english": "Apply [effect0.power] max health.[halfbreak]Draw +[effect1.power] next turn.",
+        "chinese": "获得 [effect0.power] 最大生命值。[halfbreak]下回合抽 +[effect1.power] 张牌。"
       }
     }
   ],

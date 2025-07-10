@@ -5,7 +5,8 @@
       "id": "UUBP_Underlegion1RegenOnHarvestRoom1",
       "name": "RoomStateTroopUnitUpgradeModifier",
       "descriptions": {
-        "english": "Grant [multistrike] [status0.power] to [funguy]. [troop] adds +[upgrade.bonushp][health] per stack."
+        "english": "Grant [multistrike] [status0.power] to [funguy]. [troop] adds +[upgrade.bonushp][health] per stack.",
+        "chinese": "使[funguy]获得[multistrike] [status0.power]。每层[troop]额外 +[upgrade.bonushp][health]。"
       },
       "param_subtype": "SubtypesData_FunGuy",
       "param_upgrade": "@UUBP_Underlegion1RegenOnHarvestRoom1",
@@ -21,7 +22,8 @@
       "id": "UUBP_Underlegion1RegenOnHarvestRoom2",
       "name": "RoomStateTroopUnitUpgradeModifier",
       "descriptions": {
-        "english": "Grant [multistrike] [status0.power] to [funguy]. [troop] adds +[upgrade.bonusdamage][attack] and +[upgrade.bonushp][health] per stack."
+        "english": "Grant [multistrike] [status0.power] to [funguy]. [troop] adds +[upgrade.bonusdamage][attack] and +[upgrade.bonushp][health] per stack.",
+        "chinese": "使[funguy]获得[multistrike] [status0.power]。每层[troop]额外 +[upgrade.bonusdamage][attack] 和 +[upgrade.bonushp][health]。"
       },
       "param_subtype": "SubtypesData_FunGuy",
       "param_upgrade": "@UUBP_Underlegion1RegenOnHarvestRoom2",
@@ -37,7 +39,8 @@
       "id": "UUBP_Underlegion1RegenOnHarvestRoom3",
       "name": "RoomStateTroopUnitUpgradeModifier",
       "descriptions": {
-        "english": "Grant [multistrike] [status0.power] to [funguy]. [troop] adds +[upgrade.bonusdamage][attack] and +[upgrade.bonushp][health] per stack."
+        "english": "Grant [multistrike] [status0.power] to [funguy]. [troop] adds +[upgrade.bonusdamage][attack] and +[upgrade.bonushp][health] per stack.",
+        "chinese": "使[funguy]获得[multistrike] [status0.power]。每层[troop]额外 +[upgrade.bonusdamage][attack] 和 +[upgrade.bonushp][health]。"
       },
       "param_subtype": "SubtypesData_FunGuy",
       "param_upgrade": "@UUBP_Underlegion1RegenOnHarvestRoom3",
@@ -69,7 +72,8 @@
       "override": true,
       "id": "Underlegion1RegenOnHarvest1",
       "titles": {
-        "english": "Commander"
+        "english": "Commander",
+        "chinese": "指挥官"
       },
       "bonus_damage": 10,
       "bonus_hp": 10,
@@ -84,7 +88,8 @@
       "override": true,
       "id": "Underlegion1RegenOnHarvest2",
       "titles": {
-        "english": "Commander II"
+        "english": "Commander II",
+        "chinese": "指挥官 II"
       },
       "bonus_damage": 20,
       "bonus_hp": 20,
@@ -99,7 +104,8 @@
       "override": true,
       "id": "Underlegion1RegenOnHarvest3",
       "titles": {
-        "english": "Commander III"
+        "english": "Commander III",
+        "chinese": "指挥官 III"
       },
       "bonus_damage": 30,
       "bonus_hp": 30,

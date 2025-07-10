@@ -19,7 +19,8 @@
       "id": "UUBP_SacrificeNonChampionAnywhere",
       "name": "CardTraitDummy",
       "param_description": {
-        "english": "<nobr><b>[sacrifice] </b>non-<b>Champion</b> on any floor</nobr>"
+        "english": "<nobr><b>[sacrifice] </b>non-<b>Champion</b> on any floor</nobr>",
+        "chinese": "<nobr>[sacrifice]任意层的非<b>勇者</b>单位。</nobr>"
       }
     },
     {
@@ -63,7 +64,8 @@
     {
       "key": "",
       "texts": {
-        "english": "A <b>Frozen</b> card cannot be discarded in any way. <b>Frozen</b> is removed when the card is played."
+        "english": "A <b>Frozen</b> card cannot be discarded in any way. <b>Frozen</b> is removed when the card is played.",
+        "chinese": "这张卡不会以任何方式被丢弃。当卡牌被使用后，<b>冻结</b>效果消失。"
       }
     }
   ]

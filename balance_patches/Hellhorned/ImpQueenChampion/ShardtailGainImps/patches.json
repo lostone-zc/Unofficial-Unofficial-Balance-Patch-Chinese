@@ -47,7 +47,8 @@
 			"id": "UUBP_ShardtailGainImps",
 			"trigger": "post_combat",
 			"descriptions": {
-				"english": "Add a random Imp unit to hand."
+				"english": "Add a random Imp unit to hand.",
+				"chinese": "随机将一个小鬼单位加入你的手牌。"
 			},
 			"effects": [
 				{
@@ -59,7 +60,8 @@
 			"id": "UUBP_ShardtailGainImps2",
 			"trigger": "post_combat",
 			"descriptions": {
-				"english": "Choose an Imp unit to add to your hand out of 3 random options."
+				"english": "Choose an Imp unit to add to your hand out of 3 random options.",
+				"chinese": "从三个随机小鬼单位中选择一个加入你的手牌。"
 			},
 			"effects": [
 				{

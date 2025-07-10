@@ -12,10 +12,12 @@
     {
       "id": "UUBP_AddOfferingToken",
       "names": {
-        "english": "Abyssal Chant"
+        "english": "Abyssal Chant",
+        "chinese": "深渊之歌"
       },
       "descriptions": {
-        "english": "Add an <b>Offering Token</b> spell with [ephemeral] to your hand."
+        "english": "Add an <b>Offering Token</b> spell with [ephemeral] to your hand.",
+        "chinese": "添加一张带有[ephemeral]的<b>献祭代币</b>法术牌到你的手牌。"
       },
       "class": "ClassStygian",
       "is_an_ability": true,

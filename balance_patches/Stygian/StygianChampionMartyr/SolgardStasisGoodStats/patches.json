@@ -100,7 +100,8 @@
       "id": "UUBP_SolgardBecomeBigOnShard4",
       "trigger": "card_spell_played",
       "descriptions": {
-        "english": "Gain [stygianblessing] [effect0.status0.power].<br>At [stygianblessing] [effect1.status0.power], remove [stasis], gain +[effect2.upgrade.bonussize][capacity], +[effect2.upgrade.bonusdamage][attack], and +[effect2.upgrade.bonushp][health]."
+        "english": "Gain [stygianblessing] [effect0.status0.power].<br>At [stygianblessing] [effect1.status0.power], remove [stasis], gain +[effect2.upgrade.bonussize][capacity], +[effect2.upgrade.bonusdamage][attack], and +[effect2.upgrade.bonushp][health].",
+        "chinese": "获得[stygianblessing] [effect0.status0.power]。<br>当[stygianblessing]达到 [effect1.status0.power] 层时，移除[stasis]，并获得 +[effect2.upgrade.bonussize][capacity]，+[effect2.upgrade.bonusdamage][attack]，+[effect2.upgrade.bonushp][health]。"
       },
       "effects": [
         {
@@ -118,7 +119,8 @@
       "id": "UUBP_SolgardBecomeBigOnShard8",
       "trigger": "card_spell_played",
       "descriptions": {
-        "english": "Gain [stygianblessing] [effect0.status0.power].<br>At [stygianblessing] [effect1.status0.power], remove [stasis], gain +[effect2.upgrade.bonussize][capacity], +[effect2.upgrade.bonusdamage][attack], and +[effect2.upgrade.bonushp][health]."
+        "english": "Gain [stygianblessing] [effect0.status0.power].<br>At [stygianblessing] [effect1.status0.power], remove [stasis], gain +[effect2.upgrade.bonussize][capacity], +[effect2.upgrade.bonusdamage][attack], and +[effect2.upgrade.bonushp][health].",
+        "chinese": "获得[stygianblessing] [effect0.status0.power]。<br>当[stygianblessing]达到 [effect1.status0.power] 层时，移除[stasis]，并获得 +[effect2.upgrade.bonussize][capacity]，+[effect2.upgrade.bonusdamage][attack]，+[effect2.upgrade.bonushp][health]。"
       },
       "effects": [
         {
@@ -136,7 +138,8 @@
       "id": "UUBP_SolgardBecomeBigOnShard16",
       "trigger": "card_spell_played",
       "descriptions": {
-        "english": "Gain [stygianblessing] [effect0.status0.power].<br>At [stygianblessing] [effect1.status0.power], remove [stasis], gain +[effect2.upgrade.bonussize][capacity], +[effect2.upgrade.bonusdamage][attack], and +[effect2.upgrade.bonushp][health]."
+        "english": "Gain [stygianblessing] [effect0.status0.power].<br>At [stygianblessing] [effect1.status0.power], remove [stasis], gain +[effect2.upgrade.bonussize][capacity], +[effect2.upgrade.bonusdamage][attack], and +[effect2.upgrade.bonushp][health].",
+        "chinese": "获得[stygianblessing] [effect0.status0.power]。<br>当[stygianblessing]达到 [effect1.status0.power] 层时，移除[stasis]，并获得 +[effect2.upgrade.bonussize][capacity]，+[effect2.upgrade.bonusdamage][attack]，+[effect2.upgrade.bonushp][health]。"
       },
       "effects": [
         {

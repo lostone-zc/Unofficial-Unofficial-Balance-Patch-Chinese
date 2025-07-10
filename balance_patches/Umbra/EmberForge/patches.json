@@ -4,10 +4,12 @@
     {
       "id": "UUBP_LightUpFurnace",
       "names": {
-        "english": "Light Up"
+        "english": "Light Up",
+        "chinese": "生火"
       },
       "descriptions": {
-        "english": "Gain [effect0.power][ember]."
+        "english": "Gain [effect0.power][ember].",
+        "chinese": "获得 [effect0.power][ember]。"
       },
       "is_an_ability": true,
       "cooldown": 1,

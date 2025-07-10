@@ -5,7 +5,8 @@
       "id": "UUBP_ShardtailSacrificeImps",
       "trigger": "on_own_ability_activated",
       "descriptions": {
-        "english": "Deal [effect0.power] damage to enemy units."
+        "english": "Deal [effect0.power] damage to enemy units.",
+        "chinese": "对本层所有敌方单位造成 [effect0.power] 点伤害。"
       },
       "effects": [
         {
@@ -17,7 +18,8 @@
       "id": "UUBP_ShardtailSacrificeImps2",
       "trigger": "on_own_ability_activated",
       "descriptions": {
-        "english": "Deal [effect0.power] damage to enemy units."
+        "english": "Deal [effect0.power] damage to enemy units.",
+        "chinese": "对本层所有敌方单位造成 [effect0.power] 点伤害。"
       },
       "effects": [
         {
@@ -29,7 +31,8 @@
       "id": "UUBP_ShardtailSacrificeImps3",
       "trigger": "on_own_ability_activated",
       "descriptions": {
-        "english": "Deal [effect0.power] damage to enemy units."
+        "english": "Deal [effect0.power] damage to enemy units.",
+        "chinese": "对本层所有敌方单位造成 [effect0.power] 点伤害。"
       },
       "effects": [
         {

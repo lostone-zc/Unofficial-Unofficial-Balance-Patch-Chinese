@@ -5,10 +5,12 @@
       "id": "UUBP_ImpQueenChampionAbility",
       "card_art": "",
       "names": {
-        "english": "Tyranny"
+        "english": "Tyranny",
+        "chinese": "暴虐"
       },
       "descriptions": {
-        "english": "Gain [rage] [effect1.status0.power]."
+        "english": "Gain [rage] [effect1.status0.power].",
+        "chinese": "获得[rage] [effect1.status0.power]。"
       },
       "class": "ClassHellhorned",
       "is_an_ability": true,

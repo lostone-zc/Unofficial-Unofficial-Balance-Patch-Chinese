@@ -5,7 +5,8 @@
       "id": "UUBP_Underlegion1FunguyOnSlay1Slay",
       "trigger": "on_kill",
       "descriptions": {
-        "english": "Friendly units [propagate] [effect0.power]."
+        "english": "Friendly units [propagate] [effect0.power].",
+        "chinese": "本层所有友方单位[propagate] [effect0.power]。"
       },
       "effects": [
         {
@@ -17,7 +18,8 @@
       "id": "UUBP_Underlegion1FunguyOnSlay2Slay",
       "trigger": "on_kill",
       "descriptions": {
-        "english": "Friendly units [propagate] [effect0.power]."
+        "english": "Friendly units [propagate] [effect0.power].",
+        "chinese": "本层所有友方单位[propagate] [effect0.power]。"
       },
       "effects": [
         {
@@ -29,7 +31,8 @@
       "id": "UUBP_Underlegion1FunguyOnSlay3Slay",
       "trigger": "on_kill",
       "descriptions": {
-        "english": "Friendly units [propagate] [effect0.power]."
+        "english": "Friendly units [propagate] [effect0.power].",
+        "chinese": "本层所有友方单位[propagate] [effect0.power]。"
       },
       "effects": [
         {
@@ -41,7 +44,8 @@
       "id": "UUBP_Underlegion1FunguyOnSlay3Harvest",
       "trigger": "on_any_unit_death_on_floor",
       "descriptions": {
-        "english": "[propagate] [effect0.power]."
+        "english": "[propagate] [effect0.power].",
+        "chinese": "[propagate] [effect0.power]。"
       },
       "effects": [
         {

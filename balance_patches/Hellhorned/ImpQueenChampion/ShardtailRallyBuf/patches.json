@@ -5,10 +5,12 @@
       "id": "UUBP_ImpQueenChampionAbility2",
       "card_art": "",
       "names": {
-        "english": "Tyranny II"
+        "english": "Tyranny II",
+        "chinese": "暴虐 II"
       },
       "descriptions": {
-        "english": "Gain [rage] [effect1.status0.power]. Gain [trample] until the end of combat."
+        "english": "Gain [rage] [effect1.status0.power]. Gain [trample] until the end of combat.",
+        "chinese": "获得[rage] [effect1.status0.power]。获得[trample]，直到本轮战斗结束。"
       },
       "class": "ClassHellhorned",
       "is_an_ability": true,
@@ -29,10 +31,12 @@
       "id": "UUBP_ImpQueenChampionAbility3",
       "card_art": "",
       "names": {
-        "english": "Tyranny III"
+        "english": "Tyranny III",
+        "chinese": "暴虐 III"
       },
       "descriptions": {
-        "english": "Gain [rage] [effect1.status0.power]. Gain [trample] until the end of combat."
+        "english": "Gain [rage] [effect1.status0.power]. Gain [trample] until the end of combat.",
+        "chinese": "获得[rage] [effect1.status0.power]。获得[trample]，直到本轮战斗结束。"
       },
       "class": "ClassHellhorned",
       "is_an_ability": true,
@@ -55,7 +59,8 @@
       "id": "UUBP_ShardtailRallyBuff",
       "trigger": "card_monster_played",
       "descriptions": {
-        "english": "Reduce [cooldown] by [effect0.status0.power]."
+        "english": "Reduce [cooldown] by [effect0.status0.power].",
+        "chinese": "[cooldown]缩短 [effect0.status0.power]。"
       },
       "effects": [
         {

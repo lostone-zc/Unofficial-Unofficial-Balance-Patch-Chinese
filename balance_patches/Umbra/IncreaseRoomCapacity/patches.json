@@ -18,7 +18,8 @@
         "RoomAndEquipmentMerchant_RoomPool"
       ],
       "descriptions": {
-        "english": "+[effect0.upgrade.roommodifier0.power][capacity]."
+        "english": "+[effect0.upgrade.roommodifier0.power][capacity].",
+        "chinese": "+[effect0.upgrade.roommodifier0.power][capacity]。"
       }
     }
   ],

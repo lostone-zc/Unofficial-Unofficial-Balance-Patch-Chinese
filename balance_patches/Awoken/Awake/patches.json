@@ -17,7 +17,8 @@
         }
       ],
       "descriptions": {
-        "english": "Restore [effect0.power] health, twice.[halfbreak]Apply [regen] [effect2.status0.power]."
+        "english": "Restore [effect0.power] health, twice.[halfbreak]Apply [regen] [effect2.status0.power].",
+        "chinese": "恢复 [effect0.power] 点生命值，重复两次。[halfbreak]获得[regen] [effect2.status0.power]。"
       }
     }
   ],

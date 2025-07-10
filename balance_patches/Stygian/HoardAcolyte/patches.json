@@ -4,10 +4,12 @@
     {
       "id": "UUBP_FreezeCardInHand",
       "names": {
-        "english": "Freezing Chant"
+        "english": "Freezing Chant",
+        "chinese": "冻结之歌"
       },
       "descriptions": {
-        "english": "Apply <b>Frozen</b> to a card in your hand."
+        "english": "Apply <b>Frozen</b> to a card in your hand.",
+        "chinese": "<b>冻结</b>一张手牌。"
       },
       "class": "ClassStygian",
       "is_an_ability": true,

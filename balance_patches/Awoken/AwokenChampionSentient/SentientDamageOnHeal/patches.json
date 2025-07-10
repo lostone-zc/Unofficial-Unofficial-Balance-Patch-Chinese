@@ -5,10 +5,12 @@
       "id": "UUBP_SentientDamageOnHealAbility",
       "card_art": "",
       "names": {
-        "english": "Detonate"
+        "english": "Detonate",
+        "chinese": "引爆"
       },
       "descriptions": {
-        "english": "Restore [effect0.power] health."
+        "english": "Restore [effect0.power] health.",
+        "chinese": "恢复 [effect0.power] 点生命值。"
       },
       "class": "ClassAwoken",
       "is_an_ability": true,
@@ -24,10 +26,12 @@
       "id": "UUBP_SentientDamageOnHealAbility2",
       "card_art": "",
       "names": {
-        "english": "Detonate II"
+        "english": "Detonate II",
+        "chinese": "引爆 II"
       },
       "descriptions": {
-        "english": "Restore [effect0.power] health, twice."
+        "english": "Restore [effect0.power] health, twice.",
+        "chinese": "恢复 [effect0.power] 点生命值，重复两次。"
       },
       "class": "ClassAwoken",
       "is_an_ability": true,
@@ -46,10 +50,12 @@
       "id": "UUBP_SentientDamageOnHealAbility3",
       "card_art": "",
       "names": {
-        "english": "Detonate III"
+        "english": "Detonate III",
+        "chinese": "引爆 III"
       },
       "descriptions": {
-        "english": "Restore [effect0.power] health, thrice."
+        "english": "Restore [effect0.power] health, thrice.",
+        "chinese": "恢复 [effect0.power] 点生命值，重复三次。"
       },
       "class": "ClassAwoken",
       "is_an_ability": true,
@@ -73,7 +79,8 @@
       "id": "UUBP_SentientDamageOnHeal",
       "trigger": "on_heal",
       "descriptions": {
-        "english": "Deal [effect0.power] damage to the front enemy unit."
+        "english": "Deal [effect0.power] damage to the front enemy unit.",
+        "chinese": "对前排敌方单位造成 [effect0.power] 点伤害。"
       },
       "effects": [
         {
@@ -85,7 +92,8 @@
       "id": "UUBP_SentientDamageOnHeal2",
       "trigger": "on_heal",
       "descriptions": {
-        "english": "Deal [effect0.power] damage to the front enemy unit."
+        "english": "Deal [effect0.power] damage to the front enemy unit.",
+        "chinese": "对前排敌方单位造成 [effect0.power] 点伤害。"
       },
       "effects": [
         {
@@ -97,7 +105,8 @@
       "id": "UUBP_SentientDamageOnHeal3",
       "trigger": "on_heal",
       "descriptions": {
-        "english": "Deal [effect0.power] damage to the front enemy unit, twice."
+        "english": "Deal [effect0.power] damage to the front enemy unit, twice.",
+        "chinese": "对前排敌方单位造成 [effect0.power] 点伤害，重复两次。"
       },
       "effects": [
         {

@@ -4,10 +4,12 @@
     {
       "id": "UUBP_PenumbraStatsOnEatAbility",
       "names": {
-        "english": "Voracity"
+        "english": "Voracity",
+        "chinese": "狼吞虎咽"
       },
       "descriptions": {
-        "english": "Feed on units with [eaten], twice."
+        "english": "Feed on units with [eaten], twice.",
+        "chinese": "吞食本层所有带有[eaten]的友方单位，[eaten]能力触发两次。"
       },
       "class": "ClassUmbra",
       "is_an_ability": true,
@@ -27,10 +29,12 @@
     {
       "id": "UUBP_PenumbraStatsOnEatAbility2",
       "names": {
-        "english": "Voracity II"
+        "english": "Voracity II",
+        "chinese": "狼吞虎咽 II"
       },
       "descriptions": {
-        "english": "Feed on units with [eaten], twice."
+        "english": "Feed on units with [eaten], twice.",
+        "chinese": "吞食本层所有带有[eaten]的友方单位，[eaten]能力触发两次。"
       },
       "class": "ClassUmbra",
       "is_an_ability": true,
@@ -50,10 +54,12 @@
     {
       "id": "UUBP_PenumbraStatsOnEatAbility3",
       "names": {
-        "english": "Voracity III"
+        "english": "Voracity III",
+        "chinese": "狼吞虎咽 III"
       },
       "descriptions": {
-        "english": "Feed on units with [eaten] on all floors, twice."
+        "english": "Feed on units with [eaten] on all floors, twice.",
+        "chinese": "吞食所有层的所有带有[eaten]的友方单位，[eaten]能力触发两次。"
       },
       "class": "ClassUmbra",
       "is_an_ability": true,

@@ -5,7 +5,8 @@
       "id": "UUBP_TethysFrostbiteOnStrikeJumpscare",
       "trigger": "post_combat",
       "descriptions": {
-        "english": "Return to hand."
+        "english": "Return to hand.",
+        "chinese": "将自身返还至你的手牌。"
       },
       "effects": [
         {
@@ -20,7 +21,8 @@
       "id": "UUBP_TethysFrostbiteOnStrike1",
       "trigger": "on_spawn",
       "descriptions": {
-        "english": "Apply [frostbite] [effect0.status0.power] to enemy units."
+        "english": "Apply [frostbite] [effect0.status0.power] to enemy units.",
+        "chinese": "对本层所有敌方单位施加[frostbite] [effect0.status0.power]。"
       },
       "effects": [
         {
@@ -32,7 +34,8 @@
       "id": "UUBP_TethysFrostbiteOnStrike2",
       "trigger": "on_spawn",
       "descriptions": {
-        "english": "Apply [frostbite] [effect0.status0.power] to enemy units."
+        "english": "Apply [frostbite] [effect0.status0.power] to enemy units.",
+        "chinese": "对本层所有敌方单位施加[frostbite] [effect0.status0.power]。"
       },
       "effects": [
         {
@@ -44,7 +47,8 @@
       "id": "UUBP_TethysFrostbiteOnStrike3",
       "trigger": "on_spawn",
       "descriptions": {
-        "english": "Apply [frostbite] [effect0.status0.power] to enemy units."
+        "english": "Apply [frostbite] [effect0.status0.power] to enemy units.",
+        "chinese": "对本层所有敌方单位施加[frostbite] [effect0.status0.power]。"
       },
       "effects": [
         {

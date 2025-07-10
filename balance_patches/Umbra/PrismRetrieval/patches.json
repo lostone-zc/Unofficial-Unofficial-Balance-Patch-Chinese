@@ -5,7 +5,8 @@
       "override": true,
       "id": "PrismRetrieval",
       "descriptions": {
-        "english": "Draw a unit. Apply <nobr>[effect0.upgrade.status0.power][x] [damageshield]</nobr> and <nobr>-[x][ember]</nobr>."
+        "english": "Draw a unit. Apply <nobr>[effect0.upgrade.status0.power][x] [damageshield]</nobr> and <nobr>-[x][ember]</nobr>.",
+        "chinese": "抽取一张单位牌并使其获得 <nobr>[effect0.upgrade.status0.power][x] [damageshield]</nobr>和 <nobr>-[x][ember]</nobr>。"
       },
       "effects": [
         {
